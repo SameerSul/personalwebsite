@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
 
 ---
@@ -105,3 +106,6 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+=======
+# personalwebsite
+>>>>>>> f90457ee7f2ee43ca826dc7b67c3aebcb075c59d
