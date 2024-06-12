@@ -13,7 +13,7 @@
 	  <div class="container">
 		  <h1>Hello {name}!</h1>
 		  <p>My name is Sameer Suleman, I'm currently a {major}</p>
-		  <button on:click={updateButton}>Graduate</button>
+		  <button on:click={updateButton}>Don't Graduate</button>
 	  </div>
   </main>
   
